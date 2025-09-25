@@ -1,0 +1,100 @@
+body{
+  margin:0;
+}
+#main1{
+  background-image: url(images/face.jpg) ;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+  text-shadow:0px 0px  4px black;
+}
+#castle{
+  margin-top: 100px;
+    background-color: rgb(135, 123, 246);
+    padding:3px 15px;
+    border-radius:8px;
+}
+#castleinfo{
+  margin-top:0px;
+background-color:rgb(95, 78, 252);
+padding:3px 11px;
+    border-radius:8px;
+    margin-bottom: 15%;
+}
+#main2{
+  margin-top:0px;
+  background-color:rgb(248, 248, 200);
+}
+.pics{
+  display:flex;
+  justify-content:space-between;
+}
+.pics1{
+  height:270px;
+  width:280px;
+  border-radius:100%;
+  margin-left:59px;
+
+}
+.pics2{
+  width:280px;
+  height:270px;
+  border-radius:100%;
+  margin-right:44px;
+}
+.pics3{
+  width:280px;
+  height:270px;
+  border-radius:100%;
+  margin-left:90px;
+}
+#things{
+  margin-top:0px;
+  padding-top:20px;
+  padding-bottom:30px;
+  text-align:center;
+}
+
+#try1{
+  align-items: center;
+}
+#book{
+  margin-left:22%;
+}
+#book1{
+  margin-left:33%;
+}
+#book2{
+  margin-left:45%;
+}
+
+#main3{
+  text-align:center;
+}
+#main4{
+ background-color:rgb(129, 240, 240);
+ display:flex;
+ justify-content: space-around;
+  margin:0 auto;
+  width:500px;
+  border-bottom:4px solid;
+    border-color: violet;
+    margin-top:25px;
+    padding-top:25px;
+    padding-bottom:25px;
+  
+}
+img{
+  width:150px;
+    height:190px;
+    border-radius:7px;
+}
+.end{
+  margin:0px;
+  font-style: bold;
+  text-align: center;
+ 
+
+}
+
